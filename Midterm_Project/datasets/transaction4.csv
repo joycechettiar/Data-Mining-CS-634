@@ -1,0 +1,20 @@
+cake,sausages,tea,oil
+oil,tea,bread,sausages,cake
+wine ,bread,cake,oil
+oil,wine,bread,tea,cake,sausages
+cake,tea,oil,wine
+tea,bread,sausages,oil,cake
+wine,bread,oil,sausages,cake
+cake,bread,tea,wine
+oil,tea,pasta,sausages
+bread,cake,tea,wine
+tea,cake,bread,wine,sausages
+wine,oil,cake,sausages
+wine,cake,oil
+cake,oil,bread,sausages
+oil,bread,sausages
+bread,sausages,cake
+wine,oil,cake,sausages,
+cake,oil,tea,sausages,
+tea,oil,sausages,cake,bread
+oil,sausages,bread,wine,tea
